@@ -1,0 +1,38 @@
+                            What is Service Now?
+1.	Service Now is a cloud based ITSM platform that supports IT service management (ITSM)
+and automates common business process.
+2.	This software as a service (SaaS) platform contains a number of modular applications that can vary by instance and user
+3.	ITSM Suit
+4.	Ticketing Tool
+5.	SAAS (Software as a service)
+6.	PAAS (Platform as a service)
+7.	Cloud based service
+8.	Used by Service Desk
+9.	Providing demo environment for Practice purpose
+10.	Do customization with Java ScriptS
+
+                                   Real-Time Scenario: Laptop Screen Broken – Employee Uploads an Image
+🔹 Step 1: User Logs into ServiceNow
+•	The employee logs into the ServiceNow self-service portal using their corporate credentials.
+🔹 Step 2: Navigates to “Report an Issue”
+•	They select “Report an Issue” under the IT Services or Facilities category.
+🔹 Step 3: Fills in the Issue Details
+•	Enters a short description: “Laptop screen is cracked.”
+•	Adds a detailed description for context (e.g., "Dropped accidentally, screen shows black lines").
+🔹 Step 4: Uploads the Image
+•	Uses the Attachment or Image field to upload a photo of the broken screen as evidence.
+🔹 Step 5: Submits the Request
+•	Clicks “Submit” to create an Incident or Service Request in the system.
+🔹 Step 6: Assignment and Notification
+•	The ticket is automatically assigned to the IT Support team based on category and location.
+•	The user receives a confirmation email/SMS with a ticket number.
+🔹 Step 7: Technician Reviews the Image
+•	The IT technician views the uploaded image to assess damage without needing to inspect the device physically.
+🔹 Step 8: Resolution Action
+•	Based on the image, a repair or replacement is scheduled.
+•	Status updates are shared with the user through the ServiceNow portal.
+🔹 Step 9: Ticket Closure
+•	Once resolved, the technician updates the resolution notes, and the ticket is marked as Closed.
+•	The user can reopen the ticket if the issue persists.
+
+                          
